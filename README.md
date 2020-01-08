@@ -1,4 +1,4 @@
-# Cell_Image_MultiScale
+# Cell Image MultiScale
 
 This program read images from a specified input folder, then stacks the images as 3/2 channel (RGB), 
 then segment the cells and crop them into new images in the output folder. 
